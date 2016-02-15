@@ -1,0 +1,14 @@
+layout_spectrum: 0.651831
+color:
+  saturation: 0.6863406
+  brandStrength: 0.6155143
+  lightness: 0.3827993
+  brandColors:
+    - '#F4D8BB'
+    - '#30271F'
+    - '#FB442F'
+    - '#5C5C42'
+    - '#AB3A2E'
+  rhythmicContrast: 1
+typography_spectrum: 0.633119
+name: hikepl.us
