@@ -1,14 +1,26 @@
-layout_spectrum: 0.651831
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.633119
 color:
   saturation: 0.6863406
   brandStrength: 0.6155143
-  lightness: 0.3827993
+  rhythmicContrast: 1
   brandColors:
     - '#F4D8BB'
     - '#30271F'
     - '#FB442F'
     - '#5C5C42'
     - '#AB3A2E'
-  rhythmicContrast: 1
-typography_spectrum: 0.633119
+  lightness: 0.3827993
+layout_spectrum: 0.4696459
 name: hikepl.us
